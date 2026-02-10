@@ -29,7 +29,7 @@ return [
     'flood_time' => 15,
     'featured_items' => [1, 2],
     'render' => [
-        'url' => 'https://rend.bloxcreate.com',
+        'url' => 'https://rend.bloxcity.net',
         'key' => 'key'
     ],
 	'item_notifier' => [
