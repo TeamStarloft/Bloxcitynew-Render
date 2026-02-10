@@ -10,7 +10,7 @@
         <a href="{{ route('notes', ['page' => 'team']) }}" class="footer-link">Team</a>
         <a href="{{ route('notes', ['page' => 'contact']) }}" class="footer-link">Contact</a>
     </div>
-    <div class="footer-copyright">&copy; {{ date('Y') }} {{ config('app.name') }} | Made with ♥ by Hurricane & Soba</div>
+    <div class="footer-copyright">&copy; {{ date('Y') }} {{ config('app.name') }} | Made with ♥</div>
     <div class="footer-social-icons">
         <a href="{{ config('blox.socials.twitter') }}" class="footer-social-icon" title="Follow us on Twitter!" target="_blank" data-tooltip>
             <img src="{{ asset('img/footer/twitter.png') }}">
