@@ -1,4 +1,4 @@
-# Bloxcity.com / Bloxcity.net
+# BLOX City
 
 This project is a complete and carefully reconstructed clone of Bloxcity.com as it existed in 2017, developed in 2024 with the goal of preserving one of the platform’s most memorable eras. Built with a strong emphasis on historical accuracy, this recreation mirrors the original website’s design, structure, and functionality as closely as possible, providing an authentic experience for those who remember the platform and an opportunity for new users to explore a piece of internet history.
 
