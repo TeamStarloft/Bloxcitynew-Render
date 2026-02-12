@@ -1,41 +1,16 @@
-<?php
-/**
- * MIT License
- *
- * Copyright (c) 2021-2022 FoxxoSnoot
- *
- * Permission is hereby granted, free of charge, to any person obtaining a copy
- * of this software and associated documentation files (the "Software"), to deal
- * in the Software without restriction, including without limitation the rights
- * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
- * copies of the Software, and to permit persons to whom the Software is
- * furnished to do so, subject to the following conditions:
- *
- * The above copyright notice and this permission notice shall be included in all
- * copies or substantial portions of the Software.
- *
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
- * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
- * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- * SOFTWARE.
- */
-
 return [
     // Renderer
     'DB_HOST'         => 'localhost',
     'DB_NAME'         => 'main_website',
     'DB_USER'         => 'admin',
-    'DB_PASS'         => '05f2823cffe842dbf85307a393c843cf4fbd265615bbd3dc',
+    'DB_PASS'         => '8cde05cfe34f3326117f454de31d7efee7ac9c71fe68690b',
     'SERIOUS_KEY'     => 'key',
     'ALLOWED_TYPES'   => ['item', 'user', 'preview'],
     'FOCUS_ITEMS'     => true,
     'FACES_PNG'       => false,
 
     // Site
-    'SITE_NAME' => 'Roblox Clone',
+    'SITE_NAME' => 'BLOX City',
 
     // Directories
     'DIRECTORIES' => [
